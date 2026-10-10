@@ -75,10 +75,8 @@ Ambassadeur Epitech · Secrétaire BDE
 
 ## 📊 Stats
 
-![Scrix16's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scrix16&show_icons=true&theme=dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scrix16&layout=compact&theme=dark&hide_border=true)
-
+![Scrix16's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scrix16&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scrix16&layout=compact&theme=dark&hide_border=true&count_private=true)
 ---
 
 ## 📫 Contact
