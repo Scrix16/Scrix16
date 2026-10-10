@@ -1,14 +1,12 @@
 # Valentin Lepaul · Scrix16
 
-Développeur fullstack · Étudiant en 3ème année du Programme Grande École à **Epitech La Réunion** · Freelance
-
-Ambassadeur Epitech · Secrétaire BDE
+Fullstack developer · 3rd year student at **Epitech La Réunion** · Freelance
 
 ---
 
 ## 🛠 Stack
 
-**Langages**
+**Languages**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -26,7 +24,7 @@ Ambassadeur Epitech · Secrétaire BDE
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white)
 
-**Back-end & bases de données**
+**Back-end & databases**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
@@ -36,7 +34,7 @@ Ambassadeur Epitech · Secrétaire BDE
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white)
 
-**DevOps & outils**
+**DevOps & tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
@@ -46,7 +44,7 @@ Ambassadeur Epitech · Secrétaire BDE
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 ![SSH](https://img.shields.io/badge/SSH-231F20?style=flat&logo=openssh&logoColor=white)
 
-**Data, 3D & sécurité**
+**Data, 3D & security**
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -59,24 +57,26 @@ Ambassadeur Epitech · Secrétaire BDE
 
 ---
 
-## 🚀 Projets
+## 🚀 Projects
 
-- **Ara Équestre** : boutique en ligne bilingue de matériel d'écurie, projet client en solo, en ligne sur [ara-equestre.com](https://ara-equestre.com) (Next.js, TypeScript, PostgreSQL, Prisma)
-- **Zappy** : simulation multi-agents en réseau avec visualisation 3D, en équipe de 7 (C, C++, raylib, Python)
-- **BoucanConnect** : hackathon de 2 jours avec l'association MACE, en équipe de 6, pour transformer un séjour à l'Hôtel Le Boucan Canot en engagement pour le territoire réunionnais (React, Vite)
-- **Cvrie** : analyse de données médicales par machine learning, regroupement de descriptions de symptômes et détection de pneumonies sur radios (Python, scikit-learn, pandas)
-- **Hackjuice** : audit de sécurité d'une boutique en ligne, OWASP Juice Shop, 57 rapports de vulnérabilités (OWASP Top 10)
-- **Octopus** : déploiement automatisé d'une application de vote sur 5 serveurs (Ansible, Linux, PostgreSQL, Redis)
-- **MyTeams** : messagerie client-serveur en C, inspirée de Microsoft Teams (C, sockets TCP)
-- **CartePro** : carte d'avantages salariés avec paiement par QR code, j'y ai développé tout l'espace partenaire (React, TypeScript, Supabase)
-- **Raytracer** : moteur de rendu 3D réaliste en C++, extensible par plugins (C++17, SFML)
+- **Ara Équestre**: bilingual online store for equestrian equipment, solo client project, live at [ara-equestre.com](https://ara-equestre.com) (Next.js, TypeScript, PostgreSQL, Prisma)
+- **Zappy**: multi-agent network simulation with 3D visualization, team of 7 (C, C++, raylib, Python)
+- **BoucanConnect**: 2-day hackathon with the MACE association, team of 6, turning a stay at Hôtel Le Boucan Canot into community engagement for Réunion island (React, Vite)
+- **Cvrie**: medical data analysis using machine learning — symptom clustering and pneumonia detection on X-rays (Python, scikit-learn, pandas)
+- **Hackjuice**: security audit of an online store, OWASP Juice Shop, 57 vulnerability reports (OWASP Top 10)
+- **Octopus**: automated deployment of a voting application across 5 servers (Ansible, Linux, PostgreSQL, Redis)
+- **MyTeams**: client-server messaging app in C, inspired by Microsoft Teams (C, TCP sockets)
+- **CartePro**: employee benefits card with QR code payments — I built the entire partner portal (React, TypeScript, Supabase)
+- **Raytracer**: realistic 3D rendering engine in C++, extensible via plugins (C++17, SFML)
 
 ---
 
 ## 📊 Stats
 
 ![Scrix16's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scrix16&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scrix16&layout=compact&theme=dark&hide_border=true&count_private=true)
+
 ---
 
 ## 📫 Contact
