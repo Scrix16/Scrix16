@@ -1,6 +1,6 @@
 # Valentin Lepaul · Scrix16
 
-Développeur fullstack · Étudiant en 3ème année du Programme Grande École à **Epitech La Réunion** · Stagiaire ingénieur fullstack chez **Preskater** · Freelance
+Développeur fullstack · Étudiant en 3ème année du Programme Grande École à **Epitech La Réunion** · Freelance
 
 Ambassadeur Epitech · Secrétaire BDE
 
@@ -83,5 +83,6 @@ Ambassadeur Epitech · Secrétaire BDE
 
 ## 📫 Contact
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-valentin.re-5B8CFF?style=flat&logo=googlechrome&logoColor=white)](https://www.valentin.re)
 [![Email](https://img.shields.io/badge/Email-valentin--alexy.lepaul@epitech.eu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:valentin-alexy.lepaul@epitech.eu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-valentinlepaul-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentinlepaul)
