@@ -1,130 +1,100 @@
-<div align="center">
+div align="center">
 
-```
-┌ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ┐
-  SCRIX16 · VALENTIN LEPAUL         ● ONLINE · EPITECH · 974
-│  Fullstack Developer · 3rd year · Freelance · valentin.re      │
- ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─┘
-```
+<p><sub>WOW PROFILE · SCRIX16 · LIVE</sub></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2800&pause=900&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=%7E+%24+whoami+%E2%86%92+valentin+lepaul%2C+fullstack+dev%2C+epitech;%7E+%24+cat+stack.txt+%E2%86%92+TS+%C2%B7+React+%C2%B7+Next+%C2%B7+Node+%C2%B7+Docker+%C2%B7+PostgreSQL;%7E+%24+git+log+--oneline+%E2%86%92+9+projects+shipped;%7E+%24+open+valentin.re+%E2%86%92+%5B+%E2%9C%93+LIVE+%5D;%7E+%24+ssh+deploy%40prod+%E2%86%92+connected" alt="Terminal" />
-
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=scrix16&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182767320%3Fu%3D48171c673f4c9f6306a31b2e4231ec84bb13f7b0%26v%3D4&variant=living-identity&label=Valentin%20Lepaul&v=wow-living-identity-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/hero?username=scrix16&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182767320%3Fu%3D48171c673f4c9f6306a31b2e4231ec84bb13f7b0%26v%3D4&variant=living-identity&label=Valentin%20Lepaul&v=wow-living-identity-1&mode=dark" width="100%" alt="Valentin Lepaul animated Living Identity portrait and ASCII name" />
+</picture>
+<p><strong>Product-minded developer</strong> · the public internet</p>
+<p>Building useful things and sharing the work in public.</p>
+<p><a href="https://github.com/scrix16">GitHub</a> &nbsp;·&nbsp; <a href="https://valentin.re">Website</a></p>
 </div>
 
----
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-```
-// STACK ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
-```
+<h2>Identity, with signal</h2>
 
-**Languages**
+<table width="100%" style="display:table;width:100%;table-layout:fixed;">
+<tr>
+<td width="62%" valign="top"><p>Building useful things and sharing the work in public.</p><p><strong>Focus:</strong> `Swift` · `Shell` · `Makefile`</p><p><sub>Thoughtful collaboration, ambitious products, and useful open source.</sub></p></td>
+<td width="38%" valign="top"><p><code>LIVE SIGNAL</code></p><p><strong>2</strong> repos<br /><strong>0</strong> stars<br /><strong>649</strong> contributions<br /><strong>2</strong> followers</p></td>
+</tr>
+</table>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-000?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-000?style=flat&logo=cplusplus&logoColor=white)
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-**Front-end**
+<h2>What moves the work</h2>
 
-![React](https://img.shields.io/badge/React-000?style=flat&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000?style=flat&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000?style=flat&logo=threedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-000?style=flat&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-000?style=flat&logo=css&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=scrix16&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182767320%3Fu%3D48171c673f4c9f6306a31b2e4231ec84bb13f7b0%26v%3D4&items=Swift%3A%3ACurrent%20focus%7CShell%3A%3AIn%20the%20build%20queue%7CMakefile%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=scrix16&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182767320%3Fu%3D48171c673f4c9f6306a31b2e4231ec84bb13f7b0%26v%3D4&items=Swift%3A%3ACurrent%20focus%7CShell%3A%3AIn%20the%20build%20queue%7CMakefile%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=dark" width="100%" alt="Valentin Lepaul animated profile highlights" />
+</picture>
 
-**Back-end & databases**
+<p align="center"><sub>Positioning is useful when the proof is close behind it.</sub></p>
 
-![Node.js](https://img.shields.io/badge/Node.js-000?style=flat&logo=nodedotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-000?style=flat&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-000?style=flat&logo=supabase&logoColor=white)
-![Auth.js](https://img.shields.io/badge/Auth.js-000?style=flat&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-000?style=flat)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-000?style=flat&logo=redis&logoColor=white)
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-**DevOps & tools**
+<h2>The tools behind the signal</h2>
 
-![Docker](https://img.shields.io/badge/Docker-000?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=flat&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000?style=flat&logo=linux&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-000?style=flat&logo=ansible&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH-000?style=flat&logo=openssh&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=scrix16&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182767320%3Fu%3D48171c673f4c9f6306a31b2e4231ec84bb13f7b0%26v%3D4&variant=wow&v=wow-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=scrix16&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182767320%3Fu%3D48171c673f4c9f6306a31b2e4231ec84bb13f7b0%26v%3D4&variant=wow&v=wow-stack-1&mode=dark" width="100%" alt="Valentin Lepaul animated technology stack" />
+</picture>
 
-**Data, 3D & security**
+<p align="center"><sub>Swift · Shell · Makefile · chosen for the work, not the trend</sub></p>
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-000?style=flat&logo=scikitlearn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-000?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-000?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000?style=flat)
-![Jupyter](https://img.shields.io/badge/Jupyter-000?style=flat&logo=jupyter&logoColor=white)
-![SFML](https://img.shields.io/badge/SFML-000?style=flat&logo=sfml&logoColor=white)
-![raylib](https://img.shields.io/badge/raylib-000?style=flat&logo=raylib&logoColor=white)
-![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-000?style=flat&logo=owasp&logoColor=white)
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
----
+<h2>Built, shipped, shared</h2>
 
-```
-// PROJECTS ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
-```
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=scrix16&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182767320%3Fu%3D48171c673f4c9f6306a31b2e4231ec84bb13f7b0%26v%3D4&repos=scrix16%2FJuste-a%2Cscrix16%2FScrix16&variant=wow&v=wow-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=scrix16&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182767320%3Fu%3D48171c673f4c9f6306a31b2e4231ec84bb13f7b0%26v%3D4&repos=scrix16%2FJuste-a%2Cscrix16%2FScrix16&variant=wow&v=wow-projects-1&mode=dark" width="100%" alt="Valentin Lepaul animated project constellation" />
+</picture>
 
-```
-▸ Ara Équestre ········· bilingual equestrian store, solo client project → ara-equestre.com
-  └─ Next.js · TypeScript · PostgreSQL · Prisma
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=scrix16&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182767320%3Fu%3D48171c673f4c9f6306a31b2e4231ec84bb13f7b0%26v%3D4&repos=scrix16%2FJuste-a%2Cscrix16%2FScrix16&variant=wow-timeline&v=wow-timeline-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=scrix16&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182767320%3Fu%3D48171c673f4c9f6306a31b2e4231ec84bb13f7b0%26v%3D4&repos=scrix16%2FJuste-a%2Cscrix16%2FScrix16&variant=wow-timeline&v=wow-timeline-1&mode=dark" width="100%" alt="Valentin Lepaul animated project launch timeline" />
+</picture>
 
-▸ CartePro ············· employee benefits card, QR code payments, full partner portal
-  └─ React · TypeScript · Supabase
+<table width="100%">
+<tr>
+<td width="50%" valign="top"><p><strong><a href="https://github.com/Scrix16/Juste-a">Juste-a</a></strong></p><p>JusteÇa est un outil d'organisation</p><p><sub>Swift · ⭐ 0</sub></p></td>
+<td width="50%" valign="top"><p><strong><a href="https://github.com/Scrix16/Scrix16">Scrix16</a></strong></p><p>A selected project from this public body of work.</p><p><sub>Open source · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-▸ Zappy ················ multi-agent network simulation + 3D visualization, team of 7
-  └─ C · C++ · raylib · Python
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-▸ Cvrie ················ medical ML — symptom clustering + pneumonia detection on X-rays
-  └─ Python · scikit-learn · pandas
+<h2>Momentum, made visible</h2>
 
-▸ Hackjuice ············ security audit, OWASP Juice Shop — 57 vulnerability reports
-  └─ OWASP Top 10
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=scrix16&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182767320%3Fu%3D48171c673f4c9f6306a31b2e4231ec84bb13f7b0%26v%3D4&variant=wow&v=wow-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=scrix16&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182767320%3Fu%3D48171c673f4c9f6306a31b2e4231ec84bb13f7b0%26v%3D4&variant=wow&v=wow-stats-1&mode=dark" width="100%" alt="Valentin Lepaul animated GitHub signal" />
+</picture>
 
-▸ Octopus ·············· automated deployment across 5 servers
-  └─ Ansible · Linux · PostgreSQL · Redis
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-▸ BoucanConnect ········ 2-day hackathon, hotel stay → community engagement
-  └─ React · Vite
+<h2>The trail behind the work</h2>
 
-▸ Raytracer ············ realistic 3D rendering engine, extensible via plugins
-  └─ C++17 · SFML
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=scrix16&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182767320%3Fu%3D48171c673f4c9f6306a31b2e4231ec84bb13f7b0%26v%3D4&variant=wow&v=wow-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=scrix16&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182767320%3Fu%3D48171c673f4c9f6306a31b2e4231ec84bb13f7b0%26v%3D4&variant=wow&v=wow-heatmap-1&mode=dark" width="100%" alt="Valentin Lepaul contribution energy field" />
+</picture>
 
-▸ MyTeams ·············· client-server messaging app inspired by Microsoft Teams
-  └─ C · TCP sockets
-```
+<p align="center"><sub>12 day current streak · 100 active days</sub></p>
 
----
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-```
-// STATS ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
-```
-
-![Scrix16's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scrix16&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&count_private=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scrix16&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&count_private=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Scrix16&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=666666)](https://git.io/streak-stats)
-
----
-
-```
-// CONTACT ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
-```
-
-[![Portfolio](https://img.shields.io/badge/valentin.re-000?style=flat&logo=googlechrome&logoColor=white)](https://www.valentin.re)
-[![LinkedIn](https://img.shields.io/badge/valentinlepaul-000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentinlepaul)
-[![Email](https://img.shields.io/badge/valentin--alexy.lepaul@epitech.eu-000?style=flat&logo=gmail&logoColor=white)](mailto:valentin-alexy.lepaul@epitech.eu)
-
-```
- ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
-  BUILD 2026.10 · SCRIX16 · EPITECH LA RÉUNION
- ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
-```
+<div align="center">
+<p><sub>KEEP THE SIGNAL MOVING</sub></p>
+<h2>Make something worth noticing</h2>
+<p>I like working with people who care about craft, context, and shipping the useful version.</p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=scrix16&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182767320%3Fu%3D48171c673f4c9f6306a31b2e4231ec84bb13f7b0%26v%3D4&website=valentin.re&variant=wow&v=wow-social-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=scrix16&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182767320%3Fu%3D48171c673f4c9f6306a31b2e4231ec84bb13f7b0%26v%3D4&website=valentin.re&variant=wow&v=wow-social-1&mode=dark" width="100%" alt="Valentin Lepaul contact links" />
+</picture>
+<p><a href="https://github.com/scrix16">GitHub</a> &nbsp;·&nbsp; <a href="https://valentin.re">Website</a></p>
+<p><sub>Valentin Lepaul · Wow Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+</div>
