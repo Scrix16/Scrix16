@@ -1,6 +1,10 @@
-# Valentin Lepaul · Scrix16
+<div align="center">
 
-Fullstack developer · 3rd year student at **Epitech La Réunion** · Freelance
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:bc8cff&height=200&section=header&text=Scrix16&fontSize=60&fontColor=e6edf3&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Epitech%20La%20R%C3%A9union%20%7C%20Freelance&descAlignY=58&descSize=16" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Valentin+Lepaul+%C2%B7+Scrix16;Fullstack+Developer+%F0%9F%8F%9D%EF%B8%8F;%3E+git+commit+-m+%22ship+it%22;%3E+docker-compose+up+--build;%3E+npm+run+dev;%3E+curl+ara-equestre.com" alt="Typing SVG" />
+
+</div>
 
 ---
 
@@ -77,6 +81,8 @@ Fullstack developer · 3rd year student at **Epitech La Réunion** · Freelance
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scrix16&layout=compact&theme=dark&hide_border=true&count_private=true)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Scrix16&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 ---
 
 ## 📫 Contact
@@ -84,3 +90,7 @@ Fullstack developer · 3rd year student at **Epitech La Réunion** · Freelance
 [![Portfolio](https://img.shields.io/badge/Portfolio-valentin.re-5B8CFF?style=flat&logo=googlechrome&logoColor=white)](https://www.valentin.re)
 [![Email](https://img.shields.io/badge/Email-valentin--alexy.lepaul@epitech.eu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:valentin-alexy.lepaul@epitech.eu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-valentinlepaul-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentinlepaul)
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bc8cff,100:58a6ff&height=100&section=footer" />
+</div>
