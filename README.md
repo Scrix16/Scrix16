@@ -1,100 +1,49 @@
-div align="center">
+<div align="center">
 
-<p><sub>WOW PROFILE · SCRIX16 · LIVE</sub></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:5b8cff,100:9b6bff&section=header&text=Valentin%20Lepaul&fontColor=f2f3f8&fontSize=44&fontAlignY=36&desc=Fullstack%20Developer%20%C2%B7%20La%20R%C3%A9union&descAlignY=58&descSize=16" alt="Valentin Lepaul, Fullstack Developer" width="100%" />
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=scrix16&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182767320%3Fu%3D48171c673f4c9f6306a31b2e4231ec84bb13f7b0%26v%3D4&variant=living-identity&label=Valentin%20Lepaul&v=wow-living-identity-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=scrix16&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182767320%3Fu%3D48171c673f4c9f6306a31b2e4231ec84bb13f7b0%26v%3D4&variant=living-identity&label=Valentin%20Lepaul&v=wow-living-identity-1&mode=dark" width="100%" alt="Valentin Lepaul animated Living Identity portrait and ASCII name" />
-</picture>
-<p><strong>Product-minded developer</strong> · the public internet</p>
-<p>Building useful things and sharing the work in public.</p>
-<p><a href="https://github.com/scrix16">GitHub</a> &nbsp;·&nbsp; <a href="https://valentin.re">Website</a></p>
+[![Portfolio](https://img.shields.io/badge/valentin.re-07070c?style=for-the-badge&logo=googlechrome&logoColor=5b8cff)](https://www.valentin.re/en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-07070c?style=for-the-badge&logo=linkedin&logoColor=9b6bff)](https://www.linkedin.com/in/valentinlepaul)
+[![Email](https://img.shields.io/badge/Email-07070c?style=for-the-badge&logo=gmail&logoColor=5b8cff)](mailto:valentin-alexy.lepaul@epitech.eu)
+
 </div>
 
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+### Hi, I'm Valentin 👋
 
-<h2>Identity, with signal</h2>
+Third-year student at **Epitech** (Programme Grande École), fullstack engineering intern at **Preskater** and freelance developer alongside my studies. I turn fuzzy ideas into concrete, useful products.
 
-<table width="100%" style="display:table;width:100%;table-layout:fixed;">
-<tr>
-<td width="62%" valign="top"><p>Building useful things and sharing the work in public.</p><p><strong>Focus:</strong> `Swift` · `Shell` · `Makefile`</p><p><sub>Thoughtful collaboration, ambitious products, and useful open source.</sub></p></td>
-<td width="38%" valign="top"><p><code>LIVE SIGNAL</code></p><p><strong>2</strong> repos<br /><strong>0</strong> stars<br /><strong>649</strong> contributions<br /><strong>2</strong> followers</p></td>
-</tr>
-</table>
+> 🔎 **Looking for a 4-month internship from April 2027**: Data / AI, Web, Software or DevOps, in La Réunion or remote. [Let's talk](https://www.valentin.re/en#contact).
 
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+### Selected work
 
-<h2>What moves the work</h2>
+| | Project | What it is |
+| --- | --- | --- |
+| 🛒 | [**Ara Équestre**](https://ara-equestre.com) | Bilingual online store with customer accounts and a full back office, live in production |
+| 🎮 | [**Zappy**](https://www.valentin.re/en/projects/zappy) | Networked multi-agent simulation: C server, C++ 3D client, Python AIs (team of 7) |
+| 🌴 | [**BoucanConnect**](https://www.valentin.re/en/projects/boucanconnect) | 48-hour hackathon web app linking hotel guests with local producers |
+| 🧠 | [**Cvrie**](https://www.valentin.re/en/projects/cvrie) | Machine learning on medical data: symptom clustering and pneumonia detection |
+| 🐙 | [**Octopus**](https://www.valentin.re/en/projects/octopus) | Automated deployment of a voting app across 5 servers with Ansible |
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=scrix16&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182767320%3Fu%3D48171c673f4c9f6306a31b2e4231ec84bb13f7b0%26v%3D4&items=Swift%3A%3ACurrent%20focus%7CShell%3A%3AIn%20the%20build%20queue%7CMakefile%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/highlights?username=scrix16&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182767320%3Fu%3D48171c673f4c9f6306a31b2e4231ec84bb13f7b0%26v%3D4&items=Swift%3A%3ACurrent%20focus%7CShell%3A%3AIn%20the%20build%20queue%7CMakefile%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=dark" width="100%" alt="Valentin Lepaul animated profile highlights" />
-</picture>
+Full case studies and my journey are on **[valentin.re](https://www.valentin.re/en)**.
 
-<p align="center"><sub>Positioning is useful when the proof is close behind it.</sub></p>
+### Stack
 
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
-<h2>The tools behind the signal</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=scrix16&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182767320%3Fu%3D48171c673f4c9f6306a31b2e4231ec84bb13f7b0%26v%3D4&variant=wow&v=wow-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=scrix16&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182767320%3Fu%3D48171c673f4c9f6306a31b2e4231ec84bb13f7b0%26v%3D4&variant=wow&v=wow-stack-1&mode=dark" width="100%" alt="Valentin Lepaul animated technology stack" />
-</picture>
-
-<p align="center"><sub>Swift · Shell · Makefile · chosen for the work, not the trend</sub></p>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
-<h2>Built, shipped, shared</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=scrix16&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182767320%3Fu%3D48171c673f4c9f6306a31b2e4231ec84bb13f7b0%26v%3D4&repos=scrix16%2FJuste-a%2Cscrix16%2FScrix16&variant=wow&v=wow-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=scrix16&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182767320%3Fu%3D48171c673f4c9f6306a31b2e4231ec84bb13f7b0%26v%3D4&repos=scrix16%2FJuste-a%2Cscrix16%2FScrix16&variant=wow&v=wow-projects-1&mode=dark" width="100%" alt="Valentin Lepaul animated project constellation" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=scrix16&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182767320%3Fu%3D48171c673f4c9f6306a31b2e4231ec84bb13f7b0%26v%3D4&repos=scrix16%2FJuste-a%2Cscrix16%2FScrix16&variant=wow-timeline&v=wow-timeline-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=scrix16&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182767320%3Fu%3D48171c673f4c9f6306a31b2e4231ec84bb13f7b0%26v%3D4&repos=scrix16%2FJuste-a%2Cscrix16%2FScrix16&variant=wow-timeline&v=wow-timeline-1&mode=dark" width="100%" alt="Valentin Lepaul animated project launch timeline" />
-</picture>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top"><p><strong><a href="https://github.com/Scrix16/Juste-a">Juste-a</a></strong></p><p>JusteÇa est un outil d'organisation</p><p><sub>Swift · ⭐ 0</sub></p></td>
-<td width="50%" valign="top"><p><strong><a href="https://github.com/Scrix16/Scrix16">Scrix16</a></strong></p><p>A selected project from this public body of work.</p><p><sub>Open source · ⭐ 0</sub></p></td>
-</tr>
-</table>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
-<h2>Momentum, made visible</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=scrix16&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182767320%3Fu%3D48171c673f4c9f6306a31b2e4231ec84bb13f7b0%26v%3D4&variant=wow&v=wow-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=scrix16&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182767320%3Fu%3D48171c673f4c9f6306a31b2e4231ec84bb13f7b0%26v%3D4&variant=wow&v=wow-stats-1&mode=dark" width="100%" alt="Valentin Lepaul animated GitHub signal" />
-</picture>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
-<h2>The trail behind the work</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=scrix16&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182767320%3Fu%3D48171c673f4c9f6306a31b2e4231ec84bb13f7b0%26v%3D4&variant=wow&v=wow-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=scrix16&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182767320%3Fu%3D48171c673f4c9f6306a31b2e4231ec84bb13f7b0%26v%3D4&variant=wow&v=wow-heatmap-1&mode=dark" width="100%" alt="Valentin Lepaul contribution energy field" />
-</picture>
-
-<p align="center"><sub>12 day current streak · 100 active days</sub></p>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+![TypeScript](https://img.shields.io/badge/TypeScript-161621?style=flat-square&logo=typescript&logoColor=5b8cff)
+![React](https://img.shields.io/badge/React-161621?style=flat-square&logo=react&logoColor=5b8cff)
+![Next.js](https://img.shields.io/badge/Next.js-161621?style=flat-square&logo=nextdotjs&logoColor=5b8cff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-161621?style=flat-square&logo=tailwindcss&logoColor=5b8cff)
+![Three.js](https://img.shields.io/badge/Three.js-161621?style=flat-square&logo=threedotjs&logoColor=5b8cff)
+![Node.js](https://img.shields.io/badge/Node.js-161621?style=flat-square&logo=nodedotjs&logoColor=9b6bff)
+![Prisma](https://img.shields.io/badge/Prisma-161621?style=flat-square&logo=prisma&logoColor=9b6bff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161621?style=flat-square&logo=postgresql&logoColor=9b6bff)
+![Redis](https://img.shields.io/badge/Redis-161621?style=flat-square&logo=redis&logoColor=9b6bff)
+![Python](https://img.shields.io/badge/Python-161621?style=flat-square&logo=python&logoColor=5b8cff)
+![C++](https://img.shields.io/badge/C%2FC%2B%2B-161621?style=flat-square&logo=cplusplus&logoColor=5b8cff)
+![Docker](https://img.shields.io/badge/Docker-161621?style=flat-square&logo=docker&logoColor=9b6bff)
+![Ansible](https://img.shields.io/badge/Ansible-161621?style=flat-square&logo=ansible&logoColor=9b6bff)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-161621?style=flat-square&logo=githubactions&logoColor=9b6bff)
+![Linux](https://img.shields.io/badge/Linux-161621?style=flat-square&logo=linux&logoColor=9b6bff)
 
 <div align="center">
-<p><sub>KEEP THE SIGNAL MOVING</sub></p>
-<h2>Make something worth noticing</h2>
-<p>I like working with people who care about craft, context, and shipping the useful version.</p>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=scrix16&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182767320%3Fu%3D48171c673f4c9f6306a31b2e4231ec84bb13f7b0%26v%3D4&website=valentin.re&variant=wow&v=wow-social-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=scrix16&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182767320%3Fu%3D48171c673f4c9f6306a31b2e4231ec84bb13f7b0%26v%3D4&website=valentin.re&variant=wow&v=wow-social-1&mode=dark" width="100%" alt="Valentin Lepaul contact links" />
-</picture>
-<p><a href="https://github.com/scrix16">GitHub</a> &nbsp;·&nbsp; <a href="https://valentin.re">Website</a></p>
-<p><sub>Valentin Lepaul · Wow Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:9b6bff,100:5b8cff&section=footer" width="100%" alt="" />
 </div>
